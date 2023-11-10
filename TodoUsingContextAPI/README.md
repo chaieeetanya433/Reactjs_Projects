@@ -1,5 +1,5 @@
 
-<h1>React Todo App</h1>h1>
+<h1>React Todo App</h1>
 
 Introduction
 This is a simple and intuitive Todo application built with React, leveraging the power of the Context API for efficient state management. The app empowers users to seamlessly manage tasks, providing functionalities like adding, editing, and deleting tasks, along with the ability to mark them as completed. The state persistence in local storage ensures a seamless user experience even after page refreshes.
